@@ -1,0 +1,10 @@
+<HTML>
+<TITLE>web services</TITLE>
+<BODY><h1>Tugas Pertama</h1></BODY>
+
+
+<?php
+    $teks = "Hello World";
+    echo $teks;
+?>
+</HTML>
